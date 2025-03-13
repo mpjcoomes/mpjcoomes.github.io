@@ -1,4 +1,6 @@
 title: Portfolio
 description: A short description of your site's purpose.
-author: "your-email@domain.com"
+url: "https://github.com/mpjcoomes"
+author_name: mpjcoomes
+author_email: "your-email@domain.com"
 theme: minima
