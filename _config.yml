@@ -1,6 +1,4 @@
 title: Portfolio
-description: A short description of your site's purpose
-author:
-  name: GitHub User
-  email: "your-email@domain.com"
+description: A short description of your site's purpose.
+author: "your-email@domain.com"
 theme: minima
